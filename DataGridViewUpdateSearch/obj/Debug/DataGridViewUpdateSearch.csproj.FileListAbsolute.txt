@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.Form1.resources
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.Properties.Resources.resources
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\bin\Debug\DataGridViewUpdateSearch.exe.config
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\bin\Debug\DataGridViewUpdateSearch.exe
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\bin\Debug\DataGridViewUpdateSearch.pdb
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.exe
+C:\Users\Eren\source\repos\DataGridViewUpdateSearch\DataGridViewUpdateSearch\obj\Debug\DataGridViewUpdateSearch.pdb
